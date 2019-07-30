@@ -1,6 +1,5 @@
 # TimeofLock WPF
 
->WPF 写的一款锁屏，并不完美，纯粹就是娱乐。。。代码勉强看吧
 
 ![A](https://github.com/lingme/Picture_Bucket/raw/master/TimeofLock_WPF_img/index_1.jpg)
 
